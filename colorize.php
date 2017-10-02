@@ -34,10 +34,6 @@ function eracom_colorize() {
 	
 		$bg = 'rgb(220, 220, 176)';
 	
-	} else if ( $mois > 8 ) { // printemps
-	
-		$bg = 'rgb(220, 220, 176)';
-	
 	}
 	
 	// 2) Couleurs pour semaines spéciales:
