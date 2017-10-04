@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Eracom Colorize
-Plugin URI: https://github.com/eracom-gr351
+Plugin Name: WP Eracom Colorize
+Plugin URI: https://github.com/eracom-gr351/wp-eracom-colorize
 Description: Colorisation en fonction de la date.
 Version: 0.1
 Author: Manuel Schmalstieg
